@@ -1,4 +1,4 @@
 module.exports = {
-    slackToken : 'xoxb-6307361521-vg9ex37NVpHVfMB718Kb4qoY',
-    imgurKey : '0ec994055f93090',
+    slackToken : 'xoxb-19151771989-Rd9DFm4m3I0X5qHOqLhBPbmM',
+    imgurKey : '0ec994055f93090'
 }
