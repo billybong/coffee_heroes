@@ -1,4 +1,5 @@
 .idea
+*.log
 *.iml
 **/node_modules/
 secrets.js
